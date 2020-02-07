@@ -23,4 +23,7 @@ void CCMemoryInit(char* InitFile, int Str, int count){
 	}
 }
 
-
+/**
+ * CC Data Split
+ *
+***/
